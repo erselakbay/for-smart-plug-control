@@ -1,6 +1,6 @@
 # GameOfChance
 
--Durum 0- 
+Durum:0
 
 GameOfChance is program that makes comments on a raffles post on instagram.
 
