@@ -1,5 +1,6 @@
 # GameOfChance
 
+Durum: 0
 -ENG- 
 
 GameOfChance is program that makes comments on a raffles post on instagram.
