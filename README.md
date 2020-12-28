@@ -1,4 +1,4 @@
 # smartplug control
 
 
-[durum: 0]
+[#durum:0]
